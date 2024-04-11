@@ -1,0 +1,2 @@
+RUTA_ORIGEN=Z:\test
+RUTA_DESTINO=\\servidor\Compartido\_sistemas\test
